@@ -14,3 +14,6 @@ This repository contains a simple JavaScript counter project. The counter allows
 - It enters a loop where it waits for user input.
 - Based on the user input (e.g., button click), the corresponding function is called, and the counter value is displayed.
 - The program continues to loop until the user chooses to exit.
+
+# Divide and Conquer
+Now we have an idea of what the program will look like, let's implement.
