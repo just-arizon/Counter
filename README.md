@@ -1,9 +1,9 @@
 # Counter
 This repository contains a simple JavaScript counter project. The counter allows users to increment, decrement, and reset a numerical value.
 # Features
-- Increment the counter value by 1.
-- Decrement the counter value by 1.
-- Reset the counter value to 0.
+- Increment button to counter value by 1.
+- Decrement button to counter value by 1.
+- Reset button to counter value to 0.
 
 # PseudoCode
 - The counterValue variable holds the current value of the counter.
